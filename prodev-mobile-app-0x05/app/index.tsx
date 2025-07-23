@@ -44,7 +44,7 @@ export default function Index() {
                 
 
                 <TouchableOpacity style={styles.transparentButton}>
-                   <Link href="/Sign">
+                   <Link href="/Signin">
                   <Text style={styles.textSmall}>
                     Sing In
                   </Text>

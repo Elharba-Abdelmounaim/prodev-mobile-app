@@ -94,7 +94,7 @@ export default function Index() {
 
         <View style={styles.subTextGroup}>
           <Text style={styles.subText}>Dont have an account?</Text>
-          <Link rel="stylesheet" href="/Sign" >
+          <Link rel="stylesheet" href="/Signin" >
           <Text style={styles.subTextJoin}>Join now</Text>
           </Link>
         </View>
